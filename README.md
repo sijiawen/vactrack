@@ -1,2 +1,3 @@
-# vactrack
-Canada Vaccine Tracker
+# Canada Vaccine Tracker
+
+https://twitter.com/canadavactrack
