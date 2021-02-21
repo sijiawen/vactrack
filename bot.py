@@ -15,7 +15,7 @@ perc_per_bar = 100/bar_total
 from datetime import date, timedelta
 date_to_check = (date.today()).isoformat()
 
-# GOV UK data source API:
+# GOV of Canada data source API:
 data_read = pd.read_csv(
     'https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv', delimiter=',')
 
